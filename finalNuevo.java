@@ -66,15 +66,15 @@ public class finalNuevo{
 			System.out.println(" 3.Peru             17.Siria");
 			System.out.println(" 4.Polonia          18.Republica Checa");
 			System.out.println(" 5.Indosia          19.Libano");
-			System.out.println(" 6.Italia			20.Escocia");
-			//// aca falta organizar el resto de las banderas
-			System.out.println(" 10.Romania	    ");
-			System.out.println(" 11.Alemania       ");
-			System.out.println(" 12.Japon	    ");		
-			System.out.println(" 13.Aland	    ");	
+			System.out.println(" 6.Italia	    20.Escocia");
+			System.out.println(" 7.Nigeria	    21.Cuba");
+			System.out.println(" 8.Noruega          22.Rusia");
+			System.out.println(" 9.Isla de Pascua   23.Sri Lanka");
+			System.out.println(" 10.Romania	    24.Gambia");
+			System.out.println(" 11.Alemania        25.Chile");
+			System.out.println(" 12.Japon	    26.Paises Bajos");		
+			System.out.println(" 13.Aland	    27.Corea del Norte");	
 			System.out.println(" 14.Corea del Sur");
-
-			// falta hacerle pull al csv de banderas actualizado
 			System.out.println("");
 			System.out.println("Recuerda ingresarla con su respectivo valor (entre 1-"+indices.length+")");
 			opc = ConsoleInput.getInt();
@@ -109,10 +109,8 @@ public class finalNuevo{
 			if(i == indice)
 			{
 				fila = banderas[i].split(";");
-				//System.out.println("Nombre pais: "+fila[0]);
                 nombrepais = fila[0];
-				/*System.out.println("Capital: "+fila[1]);
-				System.out.println("Idioma: "+fila[2]);*/
+
 			}
 		}
 
@@ -287,6 +285,9 @@ public class finalNuevo{
 	}
 
 
+
+
+
 	public static void banderagrande(String fila[])
 	{
 		for (int i=0;i<fila.length;i++) 
@@ -326,6 +327,8 @@ public class finalNuevo{
 		}
 		System.out.println(ConsoleColors.RESET);
 	}
+
+
 
 
 	public static void banderapequena(String fila[])
@@ -418,6 +421,9 @@ public class finalNuevo{
 	}
 
 
+
+
+
 	public static void blancoynegro(String fila[])
 	{
 
@@ -460,6 +466,8 @@ public class finalNuevo{
 		}
 		System.out.println(ConsoleColors.RESET);
 	}
+
+	
 
 
 	public static void aleatorio(String fila[])
@@ -550,7 +558,7 @@ public class finalNuevo{
 
 	public static void main(String[] args) 
     {
-		menu();//Invocavión de la función
+		menu();
 	}
 
 
