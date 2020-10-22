@@ -66,6 +66,7 @@ public class finalNuevo{
 			System.out.println(" 3.Peru             17.Siria");
 			System.out.println(" 4.Polonia          18.Republica Checa");
 			System.out.println(" 5.Indosia          19.Libano");
+<<<<<<< HEAD
 			System.out.println(" 6.Italia	    20.Escocia");
 			System.out.println(" 7.Nigeria	    21.Cuba");
 			System.out.println(" 8.Noruega          22.Rusia");
@@ -74,6 +75,16 @@ public class finalNuevo{
 			System.out.println(" 11.Alemania        25.Chile");
 			System.out.println(" 12.Japon	    26.Paises Bajos");		
 			System.out.println(" 13.Aland	    27.Corea del Norte");	
+=======
+			System.out.println(" 6.Italia			20.Escocia");
+			System.out.println(" 7.Nigeria			21. Cuba");
+			System.out.println(" 8.Noruega          22.Rusia");
+			System.out.println(" 9.Isla de Pascua   23.Sri Lanka");
+			System.out.println(" 10.Romania	        24.Gambia");
+			System.out.println(" 11.Alemania        25.Chile");
+			System.out.println(" 12.Japon	        26.Paises Bajos");		
+			System.out.println(" 13.Aland	        27.Corea del Norte");	
+>>>>>>> 472947ad45349b442bd631937f102de9f640a415
 			System.out.println(" 14.Corea del Sur");
 			System.out.println("");
 			System.out.println("Recuerda ingresarla con su respectivo valor (entre 1-"+indices.length+")");
