@@ -31,8 +31,16 @@ public class finalNuevo{
 
 		do{
 
-			System.out.println("Bienvenido usuario!")
-			// pongamos ascii aca
+			System.out.println(" __    __     ____     _____         ____        __    __    _____   __    __     ____     ______      _____     ____    _______ ");
+			System.out.println("(  \\  /  )   / __ \\   (_   _)       (    )       ) )  ( (   / ____\\  ) )  ( (    (    )   (   __ \\    (_   _)   / __ \\   \\     / ");
+			System.out.println(" \\ (__) /   / /  \\ \\    | |         / /\\ \\      ( (    ) ) ( (___   ( (    ) )   / /\\ \\    ) (__) )     | |    / /  \\ \\   \\   /  ");
+			System.out.println("  ) __ (   ( ()  () )   | |        ( (__) )      ) )  ( (   \\___ \\   ) )  ( (   ( (__) )  (    __/      | |   ( ()  () )   ) (   ");
+			System.out.println(" ( (  ) )  ( ()  () )   | |   __    )    (      ( (    ) )      ) ) ( (    ) )   )    (    ) \\ \\  _     | |   ( ()  () )   \\_/   ");
+			System.out.println("  ) )( (    \\ \\__/ /  __| |___) )  /  /\\  \\      ) \\__/ (   ___/ /   ) \\__/ (   /  /\\  \\  ( ( \\ \\_))   _| |__  \\ \\__/ /     _    ");
+			System.out.println(" /_/  \\_\\    \\____/   \\________/  /__(  )__\\     \\______/  /____/    \\______/  /__(  )__\\  )_) \\__/   /_____(   \\____/     (_)   ");
+			System.out.println("                                                                                                                                 ");
+			System.out.println("");
+			System.out.println("");
 			
 			
 			System.out.println("Este es el editor de banderas")
