@@ -109,10 +109,8 @@ public class finalNuevo{
 			if(i == indice)
 			{
 				fila = banderas[i].split(";");
-				//System.out.println("Nombre pais: "+fila[0]);
                 nombrepais = fila[0];
-				/*System.out.println("Capital: "+fila[1]);
-				System.out.println("Idioma: "+fila[2]);*/
+
 			}
 		}
 
