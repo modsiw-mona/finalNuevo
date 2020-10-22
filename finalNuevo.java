@@ -187,7 +187,14 @@ public class finalNuevo{
 			blancoynegro(banderas[i].split(";"));
 		}
 
-		//// aleatorio
+		System.out.println("Esta es la misma bandera pero construida con colores");
+        System.out.println("");
+        System.out.println("   :::.      :::    .,::::::   :::. ::::::::::::   ...    :::::::..   :::    ...      .::::::."); 
+        System.out.println("  ;;`;;     ;;;    ;;;;''''   ;;`;;;;;;;;;;''''.;;;;;;;. ;;;;``;;;;  ;;; .;;;;;;;.  ;;;`    ` ");
+        System.out.println(" ,[[ '[[,   [[[     [[cccc   ,[[ '[[,   [[    ,[[     l[[,[[[,/[[['  [[[,[[     l[[,'[==/[[[[,");
+        System.out.println("c$$$cc$$$c  $$'     $$****  c$$$cc$$$c  $$    $$$,     $$$$$$$$$c    $$$$$$,     $$$  '''    $");
+        System.out.println(" 888   888,o88oo,.__888oo,__ 888   888, 88,   *888,_ _,88P888b *88bo,888*888,_ _,88P 88b    dP");
+        System.out.println(" YMM   **` ****YUMMM****YUMMMYMM   **`  MMM     *YMMMMMP* MMMM   *W* MMM  *YMMMMMP*   *YMmMY* ");
 
 		for (int i=indice;i<indice+20;i++ ) 
 		{
