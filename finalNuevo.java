@@ -74,7 +74,7 @@ public class finalNuevo{
 			System.out.println(" 10.Romania	        24.Gambia");
 			System.out.println(" 11.Alemania        25.Chile");
 			System.out.println(" 12.Japon	        26.Paises Bajos");		
-			System.out.println(" 13.Aland	    ");	
+			System.out.println(" 13.Aland	        27.Corea del Norte");	
 			System.out.println(" 14.Corea del Sur");
 
 			// falta hacerle pull al csv de banderas actualizado
