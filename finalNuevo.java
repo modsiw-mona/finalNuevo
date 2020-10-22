@@ -209,8 +209,21 @@ public class finalNuevo{
 		}
 		System.out.println("");
 		System.out.println("");
-		System.out.println(" gracias por usar el editor");
-		// poner eso en ascii tambien
+		//System.out.println(" gracias por usar el editor");
+		System.out.println("  ______                _                               ");
+		System.out.println("  / ____/________ ______(_)___ ______   ____  ____  _____");
+		System.out.println(" / / __/ ___/ __ `/ ___/ / __ `/ ___/  / __ \\/ __ \\/ ___/");
+		System.out.println("/ /_/ / /  / /_/ / /__/ / /_/ (__  )  / /_/ / /_/ / /    ");
+		System.out.println("____/_/   \\__,_/\\___/_/\\__,_/____/  / .___/\\____/_/     ");
+		System.out.println("                                    /_/                  ");
+		System.out.println("                                 __            ___ __             __");
+		System.out.println("  __  ___________ ______   ___  / /  ___  ____/ (_) /_____  _____/ /");
+		System.out.println(" / / / / ___/ __ `/ ___/  / _ \\/ /  / _ \\/ __  / / __/ __ \\/ ___/ / ");
+		System.out.println("/ /_/ (__  ) /_/ / /     /  __/ /  /  __/ /_/ / / /_/ /_/ / /  /_/  ");
+		System.out.println("\\__,_/____/\\__,_/_/      \\___/_/   \\___/\\__,_/_/\\__/\\____/_/  (_)   ");
+		System.out.println("                                                                ");
+
+
 		
 
 
