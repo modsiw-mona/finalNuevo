@@ -56,7 +56,7 @@ public class finalNuevo{
 			System.out.println("/_.___/ \\__,_//_/ /_/ \\__,_/ \\___//_/    \\__,_//____/(_)   ");
 			System.out.println("");
 			System.out.println("");
-
+			System.out.println("");
 
 
 			System.out.println("Escoge la bandera que desees editar:");
