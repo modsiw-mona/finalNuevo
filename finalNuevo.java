@@ -143,14 +143,16 @@ public class finalNuevo{
 			banderagrande(banderas[i].split(";"));
 			banderagrande(banderas[i].split(";"));
 		}
-
+		System.out.println("");
 		System.out.println("");
 		System.out.println("Esta es la misma bandera pero");
+		System.out.println("");
 	 	System.out.println("..####...##..##..######...####...##..##..######..######...####..");
         System.out.println(".##..##..##..##....##....##..##..##..##....##......##....##..##.");
         System.out.println(".##......######....##....##.###..##..##....##......##....######.");
         System.out.println(".##..##..##..##....##....##..##..##..##....##......##....##..##.");
         System.out.println("..####...##..##..######...#####...####...######....##....##..##.");
+        System.out.println("");
 
 		for (int i=indice;i<indice+20;i++ ) 
 		{
@@ -159,7 +161,8 @@ public class finalNuevo{
               banderapequena(banderas[i].split(";"));
 			} 
 		}
-         
+		System.out.println("");
+        System.out.println(""); 
 		System.out.println("Esta es la misma bandera pero con los colores");
 		System.out.println("");
 		System.out.println("### #     #    #    ####### #     #    #    ### ######  #######  #####" );
@@ -169,12 +172,14 @@ public class finalNuevo{
 		System.out.println(" #  # #   # #     # #       #     #    #     #  #     # #     # #      ");
 		System.out.println(" #  ##    # #     # #       #     #    #     #  #     # #     # #     #");  
 		System.out.println("### #     # #     # ####### ######  ####### ### ######  #######  ##### ");  
+		System.out.println("");
 
 		for (int i=indice;i<indice+20;i++ ) 
 		{
 			negativo(banderas[i].split(";"));
 		}
-
+		System.out.println("");
+		System.out.println("");
         System.out.println("Esta es la misma bandera pero en");
         System.out.println("");
         System.out.println("#########  ###            ###     ####    ###  ########   ########       :::   :::      ::::    ::: :::::::::: ::::::::  :::::::::   :::::::: "); 
@@ -184,13 +189,15 @@ public class finalNuevo{
         System.out.println("###    ### ###        ###     ### ###  ###### ###        ###    ###         +#+         :::  :::::: :::       :::   :::: :::    ::: :::    :::"); 
         System.out.println("###    ### ###        ###     ### ###   ##### ###    ### ###    ###         #+#         :::   ::::: :::       :::    ::: :::    ::: :::    :::"); 
         System.out.println("#########  ########## ###     ### ###    ####  ########   ########          ###         :::    :::: :::::::::: ::::::::  :::    :::  :::::::: "); 
+        System.out.println("");
 
 
 		for (int i=indice;i<indice+20;i++ ) 
 		{
 			blancoynegro(banderas[i].split(";"));
 		}
-
+		System.out.println("");
+		System.out.println("");
 		System.out.println("Esta es la misma bandera pero construida con colores");
         System.out.println("");
         System.out.println("   :::.      :::    .,::::::   :::. ::::::::::::   ...    :::::::..   :::    ...      .::::::."); 
