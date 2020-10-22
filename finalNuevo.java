@@ -285,6 +285,9 @@ public class finalNuevo{
 	}
 
 
+
+
+
 	public static void banderagrande(String fila[])
 	{
 		for (int i=0;i<fila.length;i++) 
@@ -324,6 +327,8 @@ public class finalNuevo{
 		}
 		System.out.println(ConsoleColors.RESET);
 	}
+
+
 
 
 	public static void banderapequena(String fila[])
@@ -416,6 +421,9 @@ public class finalNuevo{
 	}
 
 
+
+
+
 	public static void blancoynegro(String fila[])
 	{
 
@@ -458,6 +466,8 @@ public class finalNuevo{
 		}
 		System.out.println(ConsoleColors.RESET);
 	}
+
+	
 
 
 	public static void aleatorio(String fila[])
@@ -548,7 +558,7 @@ public class finalNuevo{
 
 	public static void main(String[] args) 
     {
-		menu();//Invocavión de la función
+		menu();
 	}
 
 
