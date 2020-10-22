@@ -7,7 +7,7 @@ public class finalNuevo{
 	public static void menu()
 	{
 
-        opcion_bandera = 0;
+        int opcion_bandera = 0;
 		String banderas[] = ConsoleFile.read("info_banderas.csv");
 		int indices[] = crearIndices(banderas.length/20);
 		//System.out.println(Arrays.toString(indices));
@@ -66,7 +66,7 @@ public class finalNuevo{
 			System.out.println(" 3.Peru             17.Siria");
 			System.out.println(" 4.Polonia          18.Republica Checa");
 			System.out.println(" 5.Indosia          19.Libano");
-			System.out.println(" 6.Italia")
+			System.out.println(" 6.Italia");
 			//// aca falta organizar el resto de las banderas
 			System.out.println(" 10.Romania	    ");
 			System.out.println(" 11.Alemania       ");
@@ -142,7 +142,7 @@ public class finalNuevo{
 
 		System.out.println("");
 		System.out.println("Esta es la misma bandera pero");
-	 	System.out.println("pequeno") //poner esto en ascii
+	 	System.out.println("pequeno"); //poner esto en ascii
 
 		for (int i=indice;i<indice+20;i++ ) 
 		{
