@@ -156,7 +156,15 @@ public class finalNuevo{
 			} 
 		}
          
-        //invertido
+		System.out.println("Esta es la misma bandera pero con los colores");
+		System.out.println("");
+		System.out.println("### #     #    #    ####### #     #    #    ### ######  #######  #####" );
+		System.out.println(" #  #    ##   # #   #       #    #     #     #  #     # #     # #     #");
+		System.out.println(" #  #   # #  #   #  #       #   #      #     #  #     # #     #       #");
+		System.out.println(" #  #  #  # #     # #####   ######     #     #  #     # #     #  ##### ");
+		System.out.println(" #  # #   # #     # #       #     #    #     #  #     # #     # #      ");
+		System.out.println(" #  ##    # #     # #       #     #    #     #  #     # #     # #     #");  
+		System.out.println("### #     # #     # ####### ######  ####### ### ######  #######  ##### ");  
 
 		for (int i=indice;i<indice+20;i++ ) 
 		{
