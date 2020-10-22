@@ -7,7 +7,7 @@ public class finalNuevo{
 	public static void menu()
 	{
 
-        int centinela = 0, opcion_bandera = 0;
+        opcion_bandera = 0;
 		String banderas[] = ConsoleFile.read("info_banderas.csv");
 		int indices[] = crearIndices(banderas.length/20);
 		//System.out.println(Arrays.toString(indices));
