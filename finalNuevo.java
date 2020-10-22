@@ -43,8 +43,19 @@ public class finalNuevo{
 			System.out.println("");
 			
 			
-			System.out.println("Este es el editor de banderas")
-			// poner esto en ascii tambien
+			System.out.println("    __     _                                  _      __                 __             __ _  __                      __    ");
+			System.out.println("   / /_   (_)___   ____  _   __ ___   ____   (_)____/ /____     ____ _ / /  ___   ____/ /(_)/ /_ ____   _____   ____/ /___ ");
+			System.out.println("  / __ \\ / // _ \\ / __ \\| | / // _ \\ / __ \\ / // __  // __ \\   / __ `// /  / _ \\ / __  // // __// __ \\ / ___/  / __  // _ \\ ");
+			System.out.println(" / /_/ // //  __// / / /| |/ //  __// / / // // /_/ // /_/ /  / /_/ // /  /  __// /_/ // // /_ / /_/ // /     / /_/ //  __/");
+			System.out.println("/_.___//_/ \\___//_/ /_/ |___/ \\___//_/ /_//_/ \\__,_/ \\____/   \\__,_//_/   \\___/ \\__,_//_/ \\__/ \\____//_/      \\__,_/ \\___/ ");
+			System.out.println("                                                                                                                           ");
+			System.out.println("    __                       __                          __");
+			System.out.println("   / /_   ____ _ ____   ____/ /___   _____ ____ _ _____ / /");
+			System.out.println("  / __ \\ / __ `// __ \\ / __  // _ \\ / ___// __ `// ___// / ");
+			System.out.println(" / /_/ // /_/ // / / // /_/ //  __// /   / /_/ /(__  )/_/  ");
+			System.out.println("/_.___/ \\__,_//_/ /_/ \\__,_/ \\___//_/    \\__,_//____/(_)   ");
+			System.out.println("");
+			System.out.println("");
 
 
 
@@ -55,6 +66,7 @@ public class finalNuevo{
 			System.out.println(" 3.Peru             17.Siria");
 			System.out.println(" 4.Polonia          18.Republica Checa");
 			System.out.println(" 5.Indosia          19.Libano");
+			System.out.println(" 6.Italia")
 			//// aca falta organizar el resto de las banderas
 			System.out.println(" 10.Romania	    ");
 			System.out.println(" 11.Alemania       ");
