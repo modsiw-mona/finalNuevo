@@ -199,6 +199,7 @@ public class finalNuevo{
 		System.out.println("");
 		System.out.println("");
 		System.out.println("Esta es la misma bandera pero construida con colores");
+		System.out.println("");
         System.out.println("");
         System.out.println("   :::.      :::    .,::::::   :::. ::::::::::::   ...    :::::::..   :::    ...      .::::::."); 
         System.out.println("  ;;`;;     ;;;    ;;;;''''   ;;`;;;;;;;;;;''''.;;;;;;;. ;;;;``;;;;  ;;; .;;;;;;;.  ;;;`    ` ");
@@ -232,6 +233,8 @@ public class finalNuevo{
 		System.out.println("/ /_/ (__  ) /_/ / /     /  __/ /  /  __/ /_/ / / /_/ /_/ / /  /_/  ");
 		System.out.println("\\__,_/____/\\__,_/_/      \\___/_/   \\___/\\__,_/_/\\__/\\____/_/  (_)   ");
 		System.out.println("                                                                ");
+		System.out.println("");
+		System.out.println("Fin del programa");
 
 
 		
