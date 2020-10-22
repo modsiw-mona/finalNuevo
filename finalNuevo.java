@@ -79,7 +79,7 @@ public class finalNuevo{
 			System.out.println("Recuerda ingresarla con su respectivo valor (entre 1-"+indices.length+")");
 			opc = ConsoleInput.getInt();
 
-			//opc = ConsoleInput.getInt();
+			
 		}while(opc<0 || opc==0 || opc>indices.length);
 
 		return opc-1;
@@ -142,7 +142,11 @@ public class finalNuevo{
 
 		System.out.println("");
 		System.out.println("Esta es la misma bandera pero");
-	 	System.out.println("pequeno"); //poner esto en ascii
+	 	System.out.println("..####...##..##..######...####...##..##..######..######...####..");
+        System.out.println(".##..##..##..##....##....##..##..##..##....##......##....##..##.");
+        System.out.println(".##......######....##....##.###..##..##....##......##....######.");
+        System.out.println(".##..##..##..##....##....##..##..##..##....##......##....##..##.");
+        System.out.println("..####...##..##..######...#####...####...######....##....##..##.");
 
 		for (int i=indice;i<indice+20;i++ ) 
 		{
