@@ -127,7 +127,13 @@ public class finalNuevo{
 		{
 			banderanormal(banderas[i].split(";"));
 		}
-			/// bandera grande en asciii
+		System.out.println(":'######:::'########:::::'###::::'##::: ##:'########::'########:");
+        System.out.println("'##... ##:: ##.... ##:::'## ##::: ###:: ##: ##.... ##: ##.....::");
+        System.out.println(" ##:::..::: ##:::: ##::'##:. ##:: ####: ##: ##:::: ##: ##:::::::");
+        System.out.println(" ##::'####: ########::'##:::. ##: ## ## ##: ##:::: ##: ######:::");
+        System.out.println(" ##::: ##:: ##.. ##::: #########: ##. ####: ##:::: ##: ##...::::");
+        System.out.println(" ##::: ##:: ##::. ##:: ##.... ##: ##:. ###: ##:::: ##: ##:::::::");
+        System.out.println(". ######::: ##:::. ##: ##:::: ##: ##::. ##: ########:: ########:");
 		for (int i=indice;i<indice+20;i++ ) 
 		{
 			banderagrande(banderas[i].split(";"));
