@@ -127,7 +127,11 @@ public class finalNuevo{
 		{
 			banderanormal(banderas[i].split(";"));
 		}
-		System.out.println(":'######:::'########:::::'###::::'##::: ##:'########::'########:");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("Esta es la misma bandera pero");
+		System.out.println("");
+        System.out.println(":'######:::'########:::::'###::::'##::: ##:'########::'########:");
         System.out.println("'##... ##:: ##.... ##:::'## ##::: ###:: ##: ##.... ##: ##.....::");
         System.out.println(" ##:::..::: ##:::: ##::'##:. ##:: ####: ##: ##:::: ##: ##:::::::");
         System.out.println(" ##::'####: ########::'##:::. ##: ## ## ##: ##:::: ##: ######:::");
@@ -209,7 +213,6 @@ public class finalNuevo{
 		}
 		System.out.println("");
 		System.out.println("");
-		//System.out.println(" gracias por usar el editor");
 		System.out.println("  ______                _                               ");
 		System.out.println("  / ____/________ ______(_)___ ______   ____  ____  _____");
 		System.out.println(" / / __/ ___/ __ `/ ___/ / __ `/ ___/  / __ \\/ __ \\/ ___/");
