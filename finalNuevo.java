@@ -71,7 +71,7 @@ public class finalNuevo{
 			System.out.println(" 8.Noruega          22.Rusia");
 			System.out.println(" 9.Isla de Pascua   23.Sri Lanka");
 			//// aca falta organizar el resto de las banderas
-			System.out.println(" 10.Romania	    ");
+			System.out.println(" 10.Romania	        24.Gambia");
 			System.out.println(" 11.Alemania       ");
 			System.out.println(" 12.Japon	    ");		
 			System.out.println(" 13.Aland	    ");	
