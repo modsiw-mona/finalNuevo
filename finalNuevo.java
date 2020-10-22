@@ -70,14 +70,11 @@ public class finalNuevo{
 			System.out.println(" 7.Nigeria			21. Cuba");
 			System.out.println(" 8.Noruega          22.Rusia");
 			System.out.println(" 9.Isla de Pascua   23.Sri Lanka");
-			//// aca falta organizar el resto de las banderas
 			System.out.println(" 10.Romania	        24.Gambia");
 			System.out.println(" 11.Alemania        25.Chile");
 			System.out.println(" 12.Japon	        26.Paises Bajos");		
 			System.out.println(" 13.Aland	        27.Corea del Norte");	
 			System.out.println(" 14.Corea del Sur");
-
-			// falta hacerle pull al csv de banderas actualizado
 			System.out.println("");
 			System.out.println("Recuerda ingresarla con su respectivo valor (entre 1-"+indices.length+")");
 			opc = ConsoleInput.getInt();
